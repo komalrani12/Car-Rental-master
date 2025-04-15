@@ -116,31 +116,6 @@ CS342-Car-Rental/
 ### For Admins:
 - **Manage Vehicles**: Add, update, or delete vehicles in the fleet.
 - **View Reports**: Access analytics, such as revenue and active bookings.
-- **Manage Bookings**: Oversee all bookings and handle cancellations.
-
----
-
-## Contributors
-
-This project was collaboratively developed by:
-- **Muhannad Majed**  
-  GitHub: [@iMD10](https://github.com/iMD10)
-
-- **Mohammed Saleh**  
-  GitHub: [@rayq-q](https://github.com/rayq-q)
-
-- **Mohammed Mansour**  
-  GitHub: [@MrM3ROF](https://github.com/MrM3ROF)
-
-- **Eyad Fahad**  
-  GitHub: [@commando-xxt](https://github.com/commando-xxt)
-
-- **Amer Mohammed**  
-  GitHub: [@3wex](https://github.com/3wex)
-
-- **Faisal Qasim**  
-  GitHub: [@csx30](https://github.com/csx30)
-
----
+- **Manage Bookings**: Oversee all bookings and handle cancellation
 
 We hope you find our project useful! Feel free to contribute or report issues.
