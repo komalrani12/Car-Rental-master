@@ -87,7 +87,7 @@ CS342-Car-Rental/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/iMD10/CS342-Car-Rental.git
+   git clone https://github.com/komalrani12/CS342-Car-Rental.git
    cd CS342-Car-Rental
    ```
 
